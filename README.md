@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la c
 ## A propos de moi
 
 - 🎓 **Formation** :  
-  2ᵉ année à l'INSA Toulouse - Cycle d'ingénieur en Modélisation, Informatique et Communication.
+  2ᵉ année à l'INSA Toulouse (Modélisation, Informatique et Communication) - Cycle d'ingénieur.
 
 - 💼 **Expérience** :  
   - Réalisation des projets web complets (front-end et back-end)  
