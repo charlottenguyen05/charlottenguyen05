@@ -17,7 +17,7 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la c
   - Recherche et approfondissement de nouvelles technologies  
 
 - 🌱 **En ce moment** :  
-  - Finalisation d’un cours avancé sur React via Coursera  
+  - Finalisation d’un cours avancé en React sur Coursera  
   - À la recherche d’opportunités professionnelles pour concrétiser ma passion et mes compétences  
 
 ## Mes technos préférées
