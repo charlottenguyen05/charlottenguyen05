@@ -1,6 +1,7 @@
 # Bonjour, je suis Linh Nhi 👋
 
 Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la création de solutions innovantes, l'exploration des nouvelles technologies, et l'apprentissage continu.
+**LinkedIn**: [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
 
 ## A propos de moi
 
@@ -25,11 +26,7 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la c
 [![Mes technologies préférées](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,html,css,python,git,bootstrap,prisma,postgres,vercel&theme=dark)](https://skillicons.dev)
 
 <!-- > Astuce : Vous pouvez modifier la liste des icônes en fonction de vos compétences et centres d’intérêt. Consultez [Skillicons.dev](https://skillicons.dev/) pour trouver d’autres icônes. -->
-
-## Comment me contacter
-
-**LinkedIn** : [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
-
+---
 Je suis ouverte à toute proposition de collaboration, d’opportunité professionnelle ou simplement à échanger des idées autour de la technologie. N’hésitez pas à me contacter, je serais ravie de discuter avec vous !
 
 
