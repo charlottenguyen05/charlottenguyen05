@@ -1,4 +1,4 @@
-# Bonjour, je suis Linh Nhi 👋
+# Bonjour, je suis NGUYEN Ngoc Linh Nhi 👋
 
 Bienvenue sur mon profil GitHub ! Je suis une développeuse passionné par la création de solutions innovantes et l'apprentissage continu. Ce README vous permettra de mieux me connaître et de comprendre mes centres d’intérêt.
 
@@ -17,7 +17,7 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionné par la cr
 
 ## Mes technos préférées
 
-[![Mes technologies préférées](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,git,linux&theme=light)](https://skillicons.dev)
+[![Mes technologies préférées](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,html,css,python,git,linux&theme=dark)](https://skillicons.dev)
 
 > Astuce : Vous pouvez modifier la liste des icônes en fonction de vos compétences et centres d’intérêt. Consultez [Skillicons.dev](https://skillicons.dev/) pour trouver d’autres icônes.
 
