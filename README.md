@@ -28,9 +28,8 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la c
 
 ## Comment me contacter
 
-- **LinkedIn** : [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
+**LinkedIn** : [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
 
 Je suis ouverte à toute proposition de collaboration, d’opportunité professionnelle ou simplement à échanger des idées autour de la technologie. N’hésitez pas à me contacter, je serais ravie de discuter avec vous !
 
-**Merci de votre visite**
 
