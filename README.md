@@ -1,4 +1,4 @@
-# Bonjour, je suis NGUYEN Ngoc Linh Nhi 👋
+# Bonjour, je suis Linh Nhi 👋
 
 Bienvenue sur mon profil GitHub ! Je suis une développeuse passionné par la création de solutions innovantes et l'apprentissage continu. Ce README vous permettra de mieux me connaître et de comprendre mes centres d’intérêt.
 
