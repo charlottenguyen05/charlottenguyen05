@@ -1,6 +1,6 @@
 # Bonjour, je suis Linh Nhi 👋
 
-Bienvenue sur mon profil GitHub ! Je suis une développeuse passionné par la création de solutions innovantes et l'apprentissage continu. Ce README vous permettra de mieux me connaître et de comprendre mes centres d’intérêt.
+Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la création de solutions innovantes, l'exploration des nouvelles technologies, et l'apprentissage continu.
 
 ## A propos de moi
 
@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionné par la cr
 
 ## Mes technos préférées
 
-[![Mes technologies préférées](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,html,css,python,git,unix,matplot,bootstrap,prisma,postgres&theme=dark)](https://skillicons.dev)
+[![Mes technologies préférées](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,html,css,python,git,bootstrap,prisma,postgres,vercel&theme=dark)](https://skillicons.dev)
 
 <!-- > Astuce : Vous pouvez modifier la liste des icônes en fonction de vos compétences et centres d’intérêt. Consultez [Skillicons.dev](https://skillicons.dev/) pour trouver d’autres icônes. -->
 
@@ -30,7 +30,7 @@ Bienvenue sur mon profil GitHub ! Je suis une développeuse passionné par la cr
 
 - **LinkedIn** : [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
 
-N’hésitez pas à me contacter pour toute proposition de collaboration, d’opportunité professionnelle ou simplement pour échanger autour de nos idées !
+Je suis ouverte à toute proposition de collaboration, d’opportunité professionnelle ou simplement à échanger des idées autour de la technologie. N’hésitez pas à me contacter, je serais ravie de discuter avec vous !
 
-**Merci de votre visite et bonne navigation sur mon profil GitHub !**
+**Merci de votre visite**
 
