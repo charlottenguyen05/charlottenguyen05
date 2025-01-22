@@ -1,7 +1,8 @@
 # Bonjour, je suis Linh Nhi 👋
 
 Bienvenue sur mon profil GitHub ! Je suis une développeuse passionnée par la création de solutions innovantes, l'exploration des nouvelles technologies, et l'apprentissage continu.
-**LinkedIn**: [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
+
+**Mon LinkedIn**: [Mon Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen-a0531113a/)
 
 ## A propos de moi
 
