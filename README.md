@@ -7,11 +7,16 @@ Voici mon [profil LinkedIn](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen/)�
 
 - 🎓 **Formation** :  2ᵉ année à l'INSA Toulouse (Modélisation, Informatique et Communication) - Cycle d'ingénieur.
 
-- 💼 **Expérience** : Réalisation des projets web complets (front-end et back-end)  
+- 💻 **Technologies** :
+  - **Langages**: TypeScript, JavaScript, Python
+  - **Frontend**: React, Nextjs, TailwindCSS, Bootstrap, MUI, Shadcn/UI, HTML, CSS
+  - **Backend**: NodeJS, Express
+  - **Database**: MongoDB, PostgreSQL
+  - **Outils**: Git, Github, VSCode, Vercel
 
 - 💡 **Intérêts** : Développement web (fullstack), nouvelles technologies, jouer au badminton 
 
-- 🌱 **En ce moment** : Traviller sur Redux
+- 🌱 **En ce moment** : Explorer Redux
 
 ## Mes technos préférées
 
