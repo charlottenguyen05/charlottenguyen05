@@ -11,7 +11,7 @@ Voici mon [profil LinkedIn](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen/)�
 
 - 💡 **Intérêts** : Développement web (fullstack), nouvelles technologies, jouer au badminton 
 
-- 🌱 **En ce moment** : Finalisation d’un cours avancé en React sur Coursera  
+- 🌱 **En ce moment** : Traviller sur Redux
 
 ## Mes technos préférées
 
