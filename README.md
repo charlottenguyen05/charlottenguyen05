@@ -1,13 +1,15 @@
-# Hi there, I'm Ngoc Linh Nhi Nguyen 👋 
+# Hi, Bonjour, I'm Nhi 
 
-### 💫 About Me
-I am a **Computer Science student** at **INSA Toulouse, France**, dedicated to building robust and user-centric web applications. My journey in tech is driven by a curiosity for **Full-Stack development**. I enjoy bridge-building—connecting clean backend logic with intuitive frontend design. Currently, I'm honing my skills in modern frameworks and learning more about Cloud computing.
+### About Me
+I am a **Computer Science student** at **INSA Toulouse, France**, dedicated to building robust and user-centric web applications. My journey in tech is driven by a curiosity for **Full-Stack development**. I enjoy bridge-building—connecting clean backend logic with intuitive frontend design. 
 
-Connect with me: [My Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen)
+Beyond my personal projects, I am an active **Open Source Contributor** at the **Oppia Foundation** and **Edulume**, where I contribute to making education more accessible through technology. Currently, I'm honing my skills in modern frameworks and expanding my knowledge in **Cloud Computing**.
+
+See more: [My Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen)
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages & Core**:  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
@@ -19,7 +21,7 @@ Connect with me: [My Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen)
 
 ---
 
-### 🚀 Featured Projects
+### Some of My Projects
 
 #### 📱 [casey-selling](https://github.com/YOUR_GITHUB_USERNAME/casey-selling)
 *E-commerce Website for Custom Phone Cases*
@@ -32,14 +34,3 @@ Connect with me: [My Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen)
 - **Tech:** React, Material UI, Node.js, Express, MongoDB, Mistral AI API.
 - **Features:** Real-time model switching, voice-to-text (Web Speech API), and persistent auth (JWT).
 - Uses Mongoose for conversation history tracking and session management.
-
-#### ⛺ [YelpCamp](https://yelp-camp-50oe.onrender.com)
-*Camping Community Platform*
-- **Tech:** Node.js, Express.js, MongoDB, Bootstrap, JavaScript.
-- Full CRUD app featuring user authentication, reviews, and interactive map clusters.
-  
----
-
-### 📊 GitHub Stats
-
-![charlottenguyen05's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=charlottenguyen05&type=languages&theme=tokyonight&chart=bars)
