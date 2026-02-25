@@ -18,19 +18,3 @@ See more: [My Linkedin](https://www.linkedin.com/in/ngoc-linh-nhi-nguyen)
 **Back-end & Databases**:  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools**:  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-512BD4?style=flat-square&logo=cursor&logoColor=white)
-
----
-
-### Some of My Projects
-
-#### 📱 [casey-selling](https://github.com/YOUR_GITHUB_USERNAME/casey-selling)
-*E-commerce Website for Custom Phone Cases*
-- **Tech:** TypeScript, React, Next.js, TailwindCSS, PostgreSQL, Prisma, Stripe.
-- Developed an interactive configurator for real-time customization previews.
-- Managed secure transactions and inventory using Prisma and Stripe.
-
-#### 🤖 [Chatbot 101 Mistral AI](https://github.com/YOUR_GITHUB_USERNAME/chatbot-101)
-*Interactive AI Chatbot Application*
-- **Tech:** React, Material UI, Node.js, Express, MongoDB, Mistral AI API.
-- **Features:** Real-time model switching, voice-to-text (Web Speech API), and persistent auth (JWT).
-- Uses Mongoose for conversation history tracking and session management.
